@@ -1,0 +1,26 @@
+﻿<Page x:Class="AgendaDigital.presentacion.Paginas.pgnGrupos"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="525"
+	Title="pgnGrupos" xmlns:my="clr-namespace:AgendaDigital.presentacion.Controles" VerticalAlignment="Top" HorizontalAlignment="Center" Unloaded="Page_Unloaded">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="86*" />
+            <ColumnDefinition Width="336" />
+            <ColumnDefinition Width="103*" />
+        </Grid.ColumnDefinitions>
+        <my:ucTextBoxMarcaAgua Height="25" HorizontalAlignment="Left" Margin="95,61,0,0" x:Name="txtnombreGrupo" VerticalAlignment="Top" Width="152" MarcaAgua="{DynamicResource NombreGrupo}" Grid.Column="1" />
+        <Separator Height="44" HorizontalAlignment="Left" Margin="15,123,0,0" Name="separator1" VerticalAlignment="Top" Width="305" Grid.Column="1" />
+        <ComboBox Grid.Column="1" Height="25" HorizontalAlignment="Left" Margin="95,92,0,0" Name="cmbEstado" VerticalAlignment="Top" Width="152" SelectedIndex="0" Style="{DynamicResource cmbEstilo}" Background="{x:Null}">
+            <ComboBoxItem Content="{DynamicResource Activo}" />
+            <ComboBoxItem Content="{DynamicResource Inactivo}" />
+        </ComboBox>
+        <ComboBox Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="96,190,0,0" Name="cmbGrupos" VerticalAlignment="Top" Width="151" IsEnabled="False" Visibility="Hidden" ItemsSource="{Binding}" SelectedIndex="0"    Style="{StaticResource cmbEstilo}" BorderBrush="#FF707070" Background="{x:Null}" />
+        <TextBlock Grid.Column="1" Height="27" HorizontalAlignment="Left" Margin="96,155,0,0" Name="txtlista" Text="{DynamicResource Lista de Grupos}" VerticalAlignment="Top" Width="152" Visibility="Hidden" />
+        <Menu Grid.Column="1" HorizontalAlignment="Left" Height="17" Margin="96,0,0,101" VerticalAlignment="Bottom" Width="52" Style="{DynamicResource menu}"/>
+    </Grid>
+</Page>

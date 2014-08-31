@@ -1,0 +1,161 @@
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Datos.dll
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\estilos.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucPassMarcaAgua.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucTextBoxMarcaAgua.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Estilos.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Recursos\StringResources.es-US.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Recursos\StringResources.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Simple Styles.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\App.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucAbc.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucCont.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucInfo.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucPassMarcaAgua.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucTextBoxMarcaAgua.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnContacto.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnCorreo.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupos.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnLogin.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\PgnPrincipal.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnRegistrarUsuario.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\App.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucAbc.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucCont.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucInfo.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\MainWindow.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnContacto.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnCorreo.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupos.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnLogin.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\PgnPrincipal.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnRegistrarUsuario.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.g.resources
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\AgendaDigital.presentacion.Properties.Resources.resources
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\ventanas\cwImagen.g.cs
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\ventanas\cwImagen.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Negocios.dll
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\estilos.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucPassMarcaAgua.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucTextBoxMarcaAgua.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Estilos.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Recursos\StringResources.es-US.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Recursos\StringResources.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Simple Styles.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\App.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucAbc.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucCont.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucInfo.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucPassMarcaAgua.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucTextBoxMarcaAgua.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnContacto.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnCorreo.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupos.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnLogin.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\PgnPrincipal.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnRegistrarUsuario.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\ventanas\cwImagen.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\App.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucAbc.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucCont.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucInfo.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnContacto.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnCorreo.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupos.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnLogin.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\PgnPrincipal.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnRegistrarUsuario.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\ventanas\cwImagen.baml
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.g.resources
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\AgendaDigital.presentacion.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\estilos.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucPassMarcaAgua.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucTextBoxMarcaAgua.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Estilos.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Recursos\StringResources.es-US.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Recursos\StringResources.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Simple Styles.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\App.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucAbc.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucCont.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucInfo.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucPassMarcaAgua.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucTextBoxMarcaAgua.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnContacto.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnCorreo.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupos.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnLogin.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\PgnPrincipal.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnRegistrarUsuario.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\ventanas\cwImagen.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\App.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Datos.dll
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupoF.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupoF.g.cs
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucAbc.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucCont.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Controles\ucInfo.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\MainWindow.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnContacto.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnCorreo.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupos.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnLogin.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\PgnPrincipal.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnRegistrarUsuario.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\ventanas\cwImagen.baml
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.g.resources
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\AgendaDigital.presentacion.Properties.Resources.resources
+C:\Users\Felipe\Desktop\t\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupoF.baml
+C:\Users\Felipe\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Paginas\pgnGrupoF.g.cs
+D:\user\Desktop\AgendaDigital\Presentacion\bin\Debug\Presentacion.exe.config
+D:\user\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\user\Desktop\AgendaDigital\Presentacion\obj\x86\Debug\Presentacion.pdb

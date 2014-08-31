@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AgendaDigitalModelStoreContainer" CdmEntityContainer="AgendaDigitalEntities">
+    <EntitySetMapping Name="tbContactos">
+      <EntityTypeMapping TypeName="AgendaDigitalModel.tbContactos">
+        <MappingFragment StoreEntitySet="tbContactos">
+          <ScalarProperty Name="favorito" ColumnName="favorito" />
+          <ScalarProperty Name="empresa" ColumnName="empresa" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="idGrupo" ColumnName="idGrupo" />
+          <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+          <ScalarProperty Name="idContactos" ColumnName="idContactos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbCorreo">
+      <EntityTypeMapping TypeName="AgendaDigitalModel.tbCorreo">
+        <MappingFragment StoreEntitySet="tbCorreo">
+          <ScalarProperty Name="idContactos" ColumnName="idContactos" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="idCorreo" ColumnName="idCorreo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbDireccion">
+      <EntityTypeMapping TypeName="AgendaDigitalModel.tbDireccion">
+        <MappingFragment StoreEntitySet="tbDireccion">
+          <ScalarProperty Name="idContactos" ColumnName="idContactos" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="idDireccion" ColumnName="idDireccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbGrupo">
+      <EntityTypeMapping TypeName="AgendaDigitalModel.tbGrupo">
+        <MappingFragment StoreEntitySet="tbGrupo">
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="idGrupo" ColumnName="idGrupo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbTelefono">
+      <EntityTypeMapping TypeName="AgendaDigitalModel.tbTelefono">
+        <MappingFragment StoreEntitySet="tbTelefono">
+          <ScalarProperty Name="idContactos" ColumnName="idContactos" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="idTelefono" ColumnName="idTelefono" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbUsuarios">
+      <EntityTypeMapping TypeName="AgendaDigitalModel.tbUsuarios">
+        <MappingFragment StoreEntitySet="tbUsuarios">
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

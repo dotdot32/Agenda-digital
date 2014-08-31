@@ -1,0 +1,50 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:my="clr-namespace:AgendaDigital.presentacion.Controles" xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Class="AgendaDigital.presentacion.Paginas.PgnLogin" 
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="525"
+	Title="PgnLogin">
+    <Page.Resources>
+        
+    </Page.Resources>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="0.323*"/>
+			<RowDefinition Height="0.677*"/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="37*"/>
+			<ColumnDefinition Width="253*"/>
+			<ColumnDefinition Width="196*"/>
+			<ColumnDefinition Width="39*"/>
+		</Grid.ColumnDefinitions>
+		<Rectangle Fill="#FF12869D" Stroke="#FF12869D" Grid.ColumnSpan="4" Height="105.05" VerticalAlignment="Top"/>
+        <Grid Margin="16,2.104,9.612,27.896" Grid.Column="2" Grid.Row="1">
+        	<my:ucTextBoxMarcaAgua Margin="19,33,0,0" x:Name="txtnombre" VerticalAlignment="Top" MarcaAgua="Nombre" HorizontalAlignment="Left" Width="139" Height="28.96" Tag="Nombre" />
+            <my:ucPassMarcaAgua Height="28" HorizontalAlignment="Left" Margin="19,72,0,0" x:Name="ucPass" VerticalAlignment="Top" Width="139" />
+            <ComboBox Margin="19,115,0,0" x:Name="cbIdioma" SelectedIndex="0" VerticalAlignment="Top" Tag="cambiar idioma" HorizontalAlignment="Left" Width="139" Style="{DynamicResource cmbEstilo}" Height="20.95" Background="{x:Null}">
+        		<ComboBoxItem Content="Español" />
+        		<ComboBoxItem Content="Ingles" />
+        	</ComboBox>
+        	<Button Content="Button" Height="50" Margin="110,148.95,0,0" VerticalAlignment="Top" Style="{DynamicResource aceptar}" Click="Button_Click" HorizontalAlignment="Left" Width="50" />
+            
+        </Grid>
+        <TextBlock Name="Titulo" Grid.Column="1" Margin="53.375,19,0,0" TextWrapping="Wrap" FontSize="24" Foreground="White" Height="37" VerticalAlignment="Top" HorizontalAlignment="Left" Width="167.125" d:LayoutOverrides="VerticalAlignment"><Run Language="es-mx" Text="Agenda Digital"/></TextBlock>
+        <Button Content="Button" Grid.Column="1" Margin="20.5,13.975,32.5,0" Grid.Row="1" Width="200" Height="200" Style="{DynamicResource ImagenUsuario}" VerticalAlignment="Top" d:LayoutOverrides="Height"/>
+        <Separator Grid.Column="1" Grid.Row="1" Height="12.945" Margin="0,110.108,-91.826,0" Name="separator1" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="215.975" >
+        	<Separator.RenderTransform>
+        		<TransformGroup>
+        			<ScaleTransform/>
+        			<SkewTransform/>
+        			<RotateTransform Angle="-90.292"/>
+        			<TranslateTransform/>
+        		</TransformGroup>
+        	</Separator.RenderTransform>
+        </Separator>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Margin="-6.625,8,0,0" Source="/Presentacion;component/Imagenes/Login/icono.png" Stretch="Fill" Width="56" Height="56" VerticalAlignment="Top"/>
+        <TextBlock Grid.Column="2" Margin="0,84,0,0" TextWrapping="Wrap" Foreground="White" FontSize="16" HorizontalAlignment="Right" Width="98" Height="21" VerticalAlignment="Top"><Run Language="es-mx" Text="Iniciar Sesion"/></TextBlock>
+    </Grid>
+</Page>

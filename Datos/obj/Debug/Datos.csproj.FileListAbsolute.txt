@@ -1,0 +1,57 @@
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Datos\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Datos\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Datos\obj\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Datos\obj\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Datos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Datos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Datos\obj\Debug\AgendaDigital.datos.Recursos.StringResources.resources
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Datos\bin\Debug\Datos.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Datos\bin\Debug\Datos.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Datos\obj\Debug\AgendaDigital.datos.Recursos.StringResources.resources
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Datos\obj\Debug\Datos.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Datos\obj\Debug\Datos.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Datos\bin\Debug\Datos.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Datos\bin\Debug\Datos.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Datos\obj\Debug\AgendaDigital.datos.Recursos.StringResources.resources
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Datos\obj\Debug\Datos.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Datos\obj\Debug\Datos.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\bin\Debug\Datos.dll.config
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\obj\Debug\AgendaDigital.datos.Recursos.StringResources.resources
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\obj\Debug\Datos.dll
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Datos\obj\Debug\Datos.pdb
+L:\AgendaDigital\Datos\bin\Debug\Datos.dll.config
+L:\AgendaDigital\Datos\bin\Debug\Datos.dll
+L:\AgendaDigital\Datos\bin\Debug\Datos.pdb
+L:\AgendaDigital\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+L:\AgendaDigital\Datos\obj\Debug\AgendaDigital.datos.Recursos.StringResources.resources
+L:\AgendaDigital\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+L:\AgendaDigital\Datos\obj\Debug\Datos.dll
+L:\AgendaDigital\Datos\obj\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Datos\bin\Debug\Datos.dll.config
+C:\Users\Felipe\Desktop\AgendaDigital\Datos\bin\Debug\Datos.dll
+C:\Users\Felipe\Desktop\AgendaDigital\Datos\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Datos\obj\Debug\Datos.dll
+C:\Users\Felipe\Desktop\AgendaDigital\Datos\obj\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital mio\Datos\bin\Debug\Datos.dll.config
+C:\Users\Felipe\Desktop\AgendaDigital mio\Datos\bin\Debug\Datos.dll
+C:\Users\Felipe\Desktop\AgendaDigital mio\Datos\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital mio\Datos\obj\Debug\AgendaDigital.datos.Recursos.StringResources.resources
+C:\Users\Felipe\Desktop\AgendaDigital mio\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\AgendaDigital mio\Datos\obj\Debug\Datos.dll
+C:\Users\Felipe\Desktop\AgendaDigital mio\Datos\obj\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital mio\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Datos\bin\Debug\Datos.dll.config
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Datos\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Datos\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Datos\obj\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Datos\obj\Debug\Datos.pdb

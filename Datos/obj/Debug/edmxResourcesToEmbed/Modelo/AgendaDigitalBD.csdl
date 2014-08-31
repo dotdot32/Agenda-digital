@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AgendaDigitalModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="AgendaDigitalEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbContactos" EntityType="AgendaDigitalModel.tbContactos" />
+    <EntitySet Name="tbCorreo" EntityType="AgendaDigitalModel.tbCorreo" />
+    <EntitySet Name="tbDireccion" EntityType="AgendaDigitalModel.tbDireccion" />
+    <EntitySet Name="tbGrupo" EntityType="AgendaDigitalModel.tbGrupo" />
+    <EntitySet Name="tbTelefono" EntityType="AgendaDigitalModel.tbTelefono" />
+    <EntitySet Name="tbUsuarios" EntityType="AgendaDigitalModel.tbUsuarios" />
+    <AssociationSet Name="FK_tbContactos_tbGrupo" Association="AgendaDigitalModel.FK_tbContactos_tbGrupo">
+      <End Role="tbGrupo" EntitySet="tbGrupo" />
+      <End Role="tbContactos" EntitySet="tbContactos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbContactos_tbUsuarios" Association="AgendaDigitalModel.FK_tbContactos_tbUsuarios">
+      <End Role="tbUsuarios" EntitySet="tbUsuarios" />
+      <End Role="tbContactos" EntitySet="tbContactos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbCorreo_tbContactos" Association="AgendaDigitalModel.FK_tbCorreo_tbContactos">
+      <End Role="tbContactos" EntitySet="tbContactos" />
+      <End Role="tbCorreo" EntitySet="tbCorreo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbDireccion_tbContactos" Association="AgendaDigitalModel.FK_tbDireccion_tbContactos">
+      <End Role="tbContactos" EntitySet="tbContactos" />
+      <End Role="tbDireccion" EntitySet="tbDireccion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbTelefono_tbContactos" Association="AgendaDigitalModel.FK_tbTelefono_tbContactos">
+      <End Role="tbContactos" EntitySet="tbContactos" />
+      <End Role="tbTelefono" EntitySet="tbTelefono" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tbContactos">
+    <Key>
+      <PropertyRef Name="idContactos" />
+    </Key>
+    <Property Type="Int32" Name="idContactos" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="idUsuario" />
+    <Property Type="Int32" Name="idGrupo" />
+    <Property Type="Int32" Name="titulo" />
+    <Property Type="String" Name="nombre" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="apellidos" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="empresa" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="favorito" />
+    <NavigationProperty Name="tbGrupo" Relationship="AgendaDigitalModel.FK_tbContactos_tbGrupo" FromRole="tbContactos" ToRole="tbGrupo" />
+    <NavigationProperty Name="tbUsuarios" Relationship="AgendaDigitalModel.FK_tbContactos_tbUsuarios" FromRole="tbContactos" ToRole="tbUsuarios" />
+    <NavigationProperty Name="tbCorreo" Relationship="AgendaDigitalModel.FK_tbCorreo_tbContactos" FromRole="tbContactos" ToRole="tbCorreo" />
+    <NavigationProperty Name="tbDireccion" Relationship="AgendaDigitalModel.FK_tbDireccion_tbContactos" FromRole="tbContactos" ToRole="tbDireccion" />
+    <NavigationProperty Name="tbTelefono" Relationship="AgendaDigitalModel.FK_tbTelefono_tbContactos" FromRole="tbContactos" ToRole="tbTelefono" />
+  </EntityType>
+  <EntityType Name="tbCorreo">
+    <Key>
+      <PropertyRef Name="idCorreo" />
+    </Key>
+    <Property Type="Int32" Name="idCorreo" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="tipo" />
+    <Property Type="String" Name="correo" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="idContactos" Nullable="false" />
+    <NavigationProperty Name="tbContactos" Relationship="AgendaDigitalModel.FK_tbCorreo_tbContactos" FromRole="tbCorreo" ToRole="tbContactos" />
+  </EntityType>
+  <EntityType Name="tbDireccion">
+    <Key>
+      <PropertyRef Name="idDireccion" />
+    </Key>
+    <Property Type="Int32" Name="idDireccion" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="tipo" />
+    <Property Type="String" Name="direccion" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="idContactos" Nullable="false" />
+    <NavigationProperty Name="tbContactos" Relationship="AgendaDigitalModel.FK_tbDireccion_tbContactos" FromRole="tbDireccion" ToRole="tbContactos" />
+  </EntityType>
+  <EntityType Name="tbGrupo">
+    <Key>
+      <PropertyRef Name="idGrupo" />
+    </Key>
+    <Property Type="Int32" Name="idGrupo" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="nombre" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="estado" />
+    <NavigationProperty Name="tbContactos" Relationship="AgendaDigitalModel.FK_tbContactos_tbGrupo" FromRole="tbGrupo" ToRole="tbContactos" />
+  </EntityType>
+  <EntityType Name="tbTelefono">
+    <Key>
+      <PropertyRef Name="idTelefono" />
+    </Key>
+    <Property Type="Int32" Name="idTelefono" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="tipo" />
+    <Property Type="String" Name="telefono" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="idContactos" Nullable="false" />
+    <NavigationProperty Name="tbContactos" Relationship="AgendaDigitalModel.FK_tbTelefono_tbContactos" FromRole="tbTelefono" ToRole="tbContactos" />
+  </EntityType>
+  <EntityType Name="tbUsuarios">
+    <Key>
+      <PropertyRef Name="idUsuario" />
+    </Key>
+    <Property Type="Int32" Name="idUsuario" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="nombre" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="password" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tbContactos" Relationship="AgendaDigitalModel.FK_tbContactos_tbUsuarios" FromRole="tbUsuarios" ToRole="tbContactos" />
+  </EntityType>
+  <Association Name="FK_tbContactos_tbGrupo">
+    <End Type="AgendaDigitalModel.tbGrupo" Role="tbGrupo" Multiplicity="0..1" />
+    <End Type="AgendaDigitalModel.tbContactos" Role="tbContactos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbGrupo">
+        <PropertyRef Name="idGrupo" />
+      </Principal>
+      <Dependent Role="tbContactos">
+        <PropertyRef Name="idGrupo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbContactos_tbUsuarios">
+    <End Type="AgendaDigitalModel.tbUsuarios" Role="tbUsuarios" Multiplicity="0..1" />
+    <End Type="AgendaDigitalModel.tbContactos" Role="tbContactos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbUsuarios">
+        <PropertyRef Name="idUsuario" />
+      </Principal>
+      <Dependent Role="tbContactos">
+        <PropertyRef Name="idUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbCorreo_tbContactos">
+    <End Type="AgendaDigitalModel.tbContactos" Role="tbContactos" Multiplicity="1" />
+    <End Type="AgendaDigitalModel.tbCorreo" Role="tbCorreo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbContactos">
+        <PropertyRef Name="idContactos" />
+      </Principal>
+      <Dependent Role="tbCorreo">
+        <PropertyRef Name="idContactos" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbDireccion_tbContactos">
+    <End Type="AgendaDigitalModel.tbContactos" Role="tbContactos" Multiplicity="1" />
+    <End Type="AgendaDigitalModel.tbDireccion" Role="tbDireccion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbContactos">
+        <PropertyRef Name="idContactos" />
+      </Principal>
+      <Dependent Role="tbDireccion">
+        <PropertyRef Name="idContactos" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbTelefono_tbContactos">
+    <End Type="AgendaDigitalModel.tbContactos" Role="tbContactos" Multiplicity="1" />
+    <End Type="AgendaDigitalModel.tbTelefono" Role="tbTelefono" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbContactos">
+        <PropertyRef Name="idContactos" />
+      </Principal>
+      <Dependent Role="tbTelefono">
+        <PropertyRef Name="idContactos" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

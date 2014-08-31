@@ -1,0 +1,22 @@
+﻿<Page x:Class="AgendaDigital.presentacion.Paginas.pgnCorreo"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="392" d:DesignWidth="614"
+	Title="pgnCorreo" xmlns:my="clr-namespace:AgendaDigital.presentacion.Controles">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="178*" />
+            <ColumnDefinition Width="347*" />
+        </Grid.ColumnDefinitions>
+        <TextBox Margin="22,58,0,0" x:Name="ucCorreo" VerticalAlignment="Top" Grid.Column="1" HorizontalAlignment="Left" Width="188" />
+        <my:ucTextBoxMarcaAgua Margin="22,97,0,0" x:Name="ucAsunto" VerticalAlignment="Top" MarcaAgua="{DynamicResource Asunto}" Grid.Column="1" HorizontalAlignment="Left" Width="188" />
+        <TextBlock Height="25" HorizontalAlignment="Left" Margin="20,125,0,0"  Text="{DynamicResource Mensaje}" VerticalAlignment="Top" Width="115" Grid.Column="1" />
+        <Button Content="{DynamicResource Enviar}" Height="48" Margin="55,322,0,0" Name="btnEnviar" VerticalAlignment="Top" Click="btnEnviar_Click" Grid.Column="1" FontSize="21.333" Background="#FF12869D" HorizontalAlignment="Left" Width="135" />
+        <TextBox Height="125" Margin="22,156,0,0" Name="txtCuerpo" VerticalAlignment="Top" HorizontalAlignment="Left" Width="216" Grid.Column="1" />
+        <Separator Height="54" HorizontalAlignment="Left" Margin="8,268,0,0" Name="separator1" VerticalAlignment="Top" Width="249" Grid.Column="1" />
+    </Grid>
+</Page>

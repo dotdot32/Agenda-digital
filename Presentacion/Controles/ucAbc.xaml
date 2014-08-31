@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="AgendaDigital.presentacion.Controles.ucAbc"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="323" d:DesignWidth="649" Loaded="UserControl_Loaded" xmlns:my="clr-namespace:AgendaDigital.presentacion">
+    <UserControl.Resources>
+        <my:AgendaDigitalDataSet x:Key="agendaDigitalDataSet" />
+        <CollectionViewSource x:Key="tbContactosViewSource" Source="{Binding Path=tbContactos, Source={StaticResource agendaDigitalDataSet}}" />
+    </UserControl.Resources>
+    <Grid>
+    	<Grid Height="31" VerticalAlignment="Top" Background="#FF12869D" Name="grd"/>
+    	<Grid Margin="0,31,0,0" DataContext="{StaticResource tbContactosViewSource}">
+    		<Grid Margin="0,0,0,0" Name="grdData"  HorizontalAlignment="Center" Width="405" Height="263" VerticalAlignment="Top" Background="#FF12869D" MouseLeave="grdData_MouseLeave" Visibility="Hidden">
+                <DataGrid Margin="8,0,8,8"  ItemsSource="{Binding}" AutoGenerateColumns="False" Name="dtgrd" IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn x:Name="nombreColumn" Binding="{Binding Path=nombre}"  Width="SizeToHeader" MinWidth="100" />
+                        <DataGridTextColumn x:Name="apellidosColumn" Binding="{Binding Path=apellidos}" Width="SizeToHeader" MinWidth="220" />
+                        <DataGridTemplateColumn x:Name="consultarColums"  >
+                            <DataGridTemplateColumn.CellEditingTemplate>
+                                <DataTemplate />
+                            </DataGridTemplateColumn.CellEditingTemplate>
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button x:Name="btnConsultar" Width="17" Height="20" Click="btnConsultar_Click" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

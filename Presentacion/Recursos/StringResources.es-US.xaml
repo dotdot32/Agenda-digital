@@ -1,0 +1,95 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="AgendaDigital">Digital Contact List</system:String>
+    <system:String x:Key="Nuevo">New</system:String>
+    <system:String x:Key="guardar">Save</system:String>
+    <system:String x:Key="Editar">Edit</system:String>
+    <system:String x:Key="Eliminar">Delete</system:String>
+    <system:String x:Key="Cancelar">Back/Cancel</system:String>
+    <system:String x:Key="AgregarUsuario">AddUser</system:String>
+    <system:String x:Key="Grupos">View Groups</system:String>
+    <system:String x:Key="Favoritos">View Favorites</system:String>
+    <system:String x:Key="Correo">Send E-mail</system:String>
+    <system:String x:Key="NombreGrupo">Group Name</system:String>
+    <system:String x:Key="Activo">Active</system:String>
+    <system:String x:Key="Inactivo">Inactive</system:String>
+    <system:String x:Key="Lista de Grupos">Group List</system:String>    
+    <system:String x:Key="NomCuenta">Name Account</system:String>
+    <system:String x:Key="Contra">Password</system:String>
+    <system:String x:Key="Vcontra">Verify Password</system:String>
+    <system:String x:Key="correo">Send E-mail</system:String>
+    <system:String x:Key="Asunto">Subject</system:String>
+    <system:String x:Key="Mensaje">Message</system:String>
+    <system:String x:Key="Enviar">Send</system:String>
+    <system:String x:Key="Nombre">First Name</system:String>
+    <system:String x:Key="Apellidos">Last Name</system:String>
+    <system:String x:Key="Empresa">Company</system:String>
+    <system:String x:Key="Grupo">Group</system:String>
+    <system:String x:Key="AgregarFavoritos">Add to favorites</system:String>
+    <system:String x:Key="Si">Yes</system:String>
+    <system:String x:Key="Sr">Mr.</system:String>
+    <system:String x:Key="Sra">Ms.</system:String>
+    <system:String x:Key="Otros">Other</system:String>
+    <system:String x:Key="Telefono">Telephone</system:String>
+    <system:String x:Key="Ecorreo">e-mail</system:String>
+    <system:String x:Key="Consultar">Consult</system:String>
+    <system:String x:Key="El Contacto">The contact </system:String>
+    <system:String x:Key="se ha registrado con exito">has been successfully registered</system:String>
+    <system:String x:Key="Mensaje:">Message:</system:String>
+    <system:String x:Key="Direccion">Address</system:String>
+    <system:String x:Key="Error al filtrar contactos">Failed to filter contacts</system:String>
+    <system:String x:Key="Los datos del contacto">Contact data</system:String>
+    <system:String x:Key="se ha actualizado con exito.">has been updated successfully.</system:String>
+    <system:String x:Key="Error al actualizar el telefono:">Failed to update the phone:</system:String>
+    <system:String x:Key="Error al actualizar el correo:">Failed to update the email:</system:String>
+    <system:String x:Key="Error al actualizar la direccion:">Failed to update the adress:</system:String>
+    <system:String x:Key="Error al eliminar los telefonos:">Failed to delete the phone:</system:String>
+    <system:String x:Key="Error al eliminar los correos:">Failed to delete the emails:</system:String>
+    <system:String x:Key="Error al eliminar las direcciones.">Failed to delete addresses. </system:String>
+    <system:String x:Key="El contacto se elimino correctamente">The user was successfully deleted</system:String>
+    <system:String x:Key="Error al eliminar el contacto.">"Error delete the contact. "</system:String>
+
+    
+    
+    <system:String x:Key="Error al registrar el correo">Failed to register email:</system:String>
+    <system:String x:Key="El correo:">The mail:</system:String>
+    <system:String x:Key="se elimino correctamente">was successfully removed</system:String>
+    <system:String x:Key="Error al agregar el destinatario">Failed to add recipient</system:String>
+    <system:String x:Key="Mensaje enviado exitosamente">Message sent successfully</system:String>
+    <system:String x:Key="Error, no se pudo enviar el mensaje.">Error, could not send the message.</system:String>
+    <system:String x:Key="Error al registrar la direccion:">Failed to register the address:</system:String>
+    <system:String x:Key="La Direccion:">The Address:</system:String>
+    <system:String x:Key="Error al eliminar la direccion.">Failed to delete the address.</system:String>
+    <system:String x:Key="Usuario o contraseña no valido">Invalid Username or Password</system:String>
+    <system:String x:Key="El usuario se registro correctamente">The user registry properly</system:String>
+    <system:String x:Key="El nombre de usuario">The username</system:String>
+    <system:String x:Key="ya se encuentra registrado">already registered</system:String>
+    <system:String x:Key="Error al registrar el Usuario.">Failed to register the User.</system:String>
+    <system:String x:Key="El grupo se agrego correctamente">The group was successfully added</system:String>
+    <system:String x:Key="El nombre del grupo">The group's name</system:String>
+    <system:String x:Key="El grupo ha sido eliminado">The group has been removed</system:String>
+    <system:String x:Key="Puede que el grupo este asociado a un contacto, no podra eliminarse">The group may be associated with a contact, will not be eliminated</system:String>
+    <system:String x:Key="Error al eliminar el Grupo">Failed to delete group</system:String>
+    <system:String x:Key="Error al registrar el telefono:">Failed to register the phone:</system:String>
+    <system:String x:Key="El telefono:">The telephone:</system:String>
+    <system:String x:Key="Móvil">cellphone</system:String>
+    <system:String x:Key="Casa">Home</system:String>
+    <system:String x:Key="Trabajo">Work</system:String>
+    <system:String x:Key="Error al eliminar el Telefono.">Failed to delete the telephone.</system:String>
+    <system:String x:Key="Error. El contacto no ningun correo asociado">Error. The contact does not have any associated email</system:String>
+    <system:String x:Key="Debe ingresar un nombre para el Grupo">You must enter a name for the Group</system:String>
+
+    <system:String x:Key="Error al buscar los grupos.">Failed to find groups.</system:String>
+    <system:String x:Key="El grupo:">The group:</system:String>
+    <system:String x:Key="ha sido editado correctamente">has been edited successfully</system:String>
+    <system:String x:Key="Error al editar el Grupo.">Failed to edit the Group.</system:String>
+
+    <system:String x:Key="Las contraseñas no coinciden o hay campos vacios">Passwords do not match or empty field</system:String>
+
+    
+    <system:String x:Key="Mantenimiento">maintenance</system:String>
+    <system:String x:Key="Filtrar">filter</system:String>
+
+</ResourceDictionary>

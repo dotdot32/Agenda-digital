@@ -1,0 +1,59 @@
+﻿<Page x:Class="AgendaDigital.presentacion.Paginas.pgnContacto"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="448.5" d:DesignWidth="681"
+	Title="pgnContacto" xmlns:my="clr-namespace:AgendaDigital.presentacion" xmlns:my1="clr-namespace:AgendaDigital.presentacion.Controles" Unloaded="Page_Unloaded">
+    <Page.Resources>
+        <my:AgendaDigitalDataSet x:Key="agendaDigitalDataSet" />
+        <CollectionViewSource x:Key="tbContactosViewSource" Source="{Binding Path=tbContactos, Source={StaticResource agendaDigitalDataSet}}" />
+    </Page.Resources>
+    <Grid>
+        <Grid Margin="0,0,0,96">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.512*"/>
+                <ColumnDefinition Width="0.488*"/>
+            </Grid.ColumnDefinitions>
+            <Image Margin="57,130,0,0" Name="ftPerfil" Source="/Presentacion;component/Imagenes/Login/Perfil.png" Stretch="Fill" Height="160" VerticalAlignment="Top" HorizontalAlignment="Left" Width="157.174" MouseLeftButtonUp="ftPerfil_MouseLeftButtonUp" />
+            <Grid DataContext="{StaticResource tbContactosViewSource}" Margin="230,130,35,0" Name="grdContacto" VerticalAlignment="Top" d:LayoutOverrides="Height" Height="181">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" MinHeight="46" />
+                    <RowDefinition Height="Auto" MinHeight="46" />
+                    <RowDefinition Height="Auto" MinHeight="46" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                
+                <my1:ucTextBoxMarcaAgua Grid.Column="1" MarcaAgua="{DynamicResource Nombre}" Grid.Row="1" Height="23" Margin="3,3,8,3" x:Name="nombreTextBox" Text="{Binding Path=nombre, Mode=TwoWay, ValidatesOnExceptions=true, NotifyOnValidationError=true}" VerticalAlignment="Center" />
+                <my1:ucTextBoxMarcaAgua Grid.Column="1" MarcaAgua="{DynamicResource Apellidos}" Grid.Row="2" Height="23" Margin="3,3,8,3" x:Name="apellidosTextBox" Text="{Binding Path=apellidos, Mode=TwoWay, ValidatesOnExceptions=true, NotifyOnValidationError=true}" VerticalAlignment="Center" />
+                <my1:ucTextBoxMarcaAgua Grid.Column="1" MarcaAgua="{DynamicResource Empresa}" Grid.Row="3" Height="23" Margin="3,3,8,3" x:Name="empresaTextBox" Text="{Binding Path=empresa, Mode=TwoWay, ValidatesOnExceptions=true, NotifyOnValidationError=true}" VerticalAlignment="Center" />
+                <ComboBox Height="21" Margin="3,15,0,0" SelectedIndex="{Binding Path=titulo, Mode=TwoWay, ValidatesOnExceptions=true, NotifyOnValidationError=true}" Name="cmbTipo" VerticalAlignment="Top"  Grid.Column="1" HorizontalAlignment="Left" Width="74.672" Style="{DynamicResource cmbEstilo}">
+                    <ComboBoxItem Content="{DynamicResource Sr}" />
+                    <ComboBoxItem Content="{DynamicResource Sra}" />
+                    <ComboBoxItem Content="{DynamicResource Otros}" />
+                </ComboBox>
+            </Grid>
+            <my1:ucInfo Grid.Column="1" x:Name="info" Margin="0,67,0,11.815"/>
+        </Grid>
+        <Grid Height="96" VerticalAlignment="Bottom">
+        	<Separator Height="0.5" Margin="183,8,147,0" Style="{DynamicResource SimpleSeparator}" VerticalAlignment="Top" Background="#FFD6D6D6" Foreground="White"/>
+        	<Grid Height="63" Margin="182,8,146,25" d:LayoutOverrides="VerticalAlignment" HorizontalAlignment="Center" Width="354">
+        		<ComboBox Height="25" HorizontalAlignment="Left" Margin="6,0,0,6" x:Name="cbGrupo" VerticalAlignment="Bottom" Width="119" />
+        		<ComboBox Height="25" HorizontalAlignment="Right" Margin="0,0,5,6" x:Name="cbFavorito" VerticalAlignment="Bottom" Width="119">
+                    <ComboBoxItem Content="{DynamicResource Si}" />
+                    <ComboBoxItem Content="No" />
+                </ComboBox>
+                <Label Content="{DynamicResource Grupo}" HorizontalAlignment="Left" Margin="6,6,0,0" Height="28" VerticalAlignment="Top" />
+        		<Label Content="{DynamicResource AgregarFavoritos}" Height="28" Margin="0,6,12.806,0" VerticalAlignment="Top" HorizontalAlignment="Right" />
+        	</Grid>
+        </Grid>
+    </Grid>
+</Page>

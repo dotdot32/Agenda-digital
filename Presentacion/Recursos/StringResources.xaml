@@ -1,0 +1,97 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="AgendaDigital">Agenda digital</system:String>
+    <system:String x:Key="Nuevo">Nuevo</system:String>
+    <system:String x:Key="guardar">Guardar</system:String>
+    <system:String x:Key="Editar">Editar</system:String>
+    <system:String x:Key="Eliminar">Eliminar</system:String>
+    <system:String x:Key="Cancelar">Atras/Cancelar</system:String>
+    <system:String x:Key="AgregarUsuario">AgregarUsuario</system:String>    
+    <system:String x:Key="Grupos">Ver Grupos</system:String>
+    <system:String x:Key="Favoritos">Ver Favoritos</system:String>
+    <system:String x:Key="Correo">Enviar Correo</system:String>
+    <system:String x:Key="NombreGrupo">Nombre del Grupo</system:String>
+    <system:String x:Key="Activo">Activo</system:String>
+    <system:String x:Key="Inactivo">Inactivo</system:String>
+    <system:String x:Key="Lista de Grupos">Lista de Grupos</system:String>
+    <system:String x:Key="NomCuenta">Nombre de la Cuenta</system:String>
+    <system:String x:Key="Contra">Contraseña</system:String>
+    <system:String x:Key="Vcontra">Verificar Contraseña</system:String>
+    <system:String x:Key="correo">Enviar Correo</system:String>
+    <system:String x:Key="Asunto">Asunto</system:String>
+    <system:String x:Key="Mensaje">Mensaje</system:String>
+    <system:String x:Key="Enviar">Enviar</system:String>
+    <system:String x:Key="Nombre">Nombre</system:String>
+    <system:String x:Key="Apellidos">Apellidos</system:String>
+    <system:String x:Key="Empresa">Empresa</system:String>
+    <system:String x:Key="Grupo">Grupo</system:String>
+    <system:String x:Key="AgregarFavoritos">Agregar a favoritos</system:String>
+    <system:String x:Key="Sr">Sr.</system:String>
+    <system:String x:Key="Sra">Sra.</system:String>
+    <system:String x:Key="Otros">Otros</system:String>
+    <system:String x:Key="Si">Si</system:String>
+    <system:String x:Key="Telefono">Telefono</system:String>
+    <system:String x:Key="Ecorreo">Correo</system:String>
+    <system:String x:Key="Direccion">Direccion</system:String>
+    <system:String x:Key="Consultar">Consultar</system:String>
+    <system:String x:Key="El Contacto">El contacto </system:String>
+    <system:String x:Key="se ha registrado con exito"> se ha registrado con exito </system:String>
+    <system:String x:Key="Mensaje:">Mensaje:</system:String>
+    <system:String x:Key="Error al filtrar contactos">Error al filtrar contactos</system:String>
+    <system:String x:Key="Los datos del contacto">Los datos del contacto</system:String>
+    <system:String x:Key="se ha actualizado con exito.">se ha actualizado con exito.</system:String>
+    <system:String x:Key="Error al actualizar el telefono:">Error al actualizar el telefono:</system:String>
+    <system:String x:Key="Error al actualizar el correo:">Error al actualizar el correo:</system:String>
+    <system:String x:Key="Error al actualizar la direccion:">Error al actualizar la direccion:</system:String>
+    <system:String x:Key="Error al eliminar los telefonos:">Error al eliminar los telefonos:</system:String>
+    <system:String x:Key="Error al eliminar los correos:">Error al eliminar los correos:</system:String>
+    <system:String x:Key="Error al eliminar las direcciones.">Error al eliminar las direcciones. </system:String>
+    <system:String x:Key="El contacto se elimino correctamente">El usuario se elimino correctamente</system:String>
+    <system:String x:Key="Error al eliminar el contacto.">Error al eliminar el contacto.</system:String>
+    
+    <system:String x:Key="Error al registrar el correo">Error al registrar el correo:</system:String>
+    <system:String x:Key="El correo:">El correo:</system:String>
+    <system:String x:Key="se elimino correctamente">se elimino correctamente</system:String>
+    <system:String x:Key="Error al agregar el destinatario">Error al agregar el destinatario</system:String>
+    <system:String x:Key="Mensaje enviado exitosamente">Mensaje enviado con exito</system:String>
+    <system:String x:Key="Error, no se pudo enviar el mensaje.">Error, no se pudo enviar el mensaje.</system:String>
+    <system:String x:Key="Error al registrar la direccion:">Error al registrar la direccion:</system:String>
+    <system:String x:Key="La Direccion:">La Direccion:</system:String>
+    <system:String x:Key="Error al eliminar la direccion.">Error al eliminar la direccion.</system:String>
+    <system:String x:Key="Usuario o contraseña no valido">Usuario o contraseña no valido</system:String>
+    <system:String x:Key="El usuario se registro correctamente">El usuario se registro correctamente</system:String>
+    <system:String x:Key="El nombre de usuario">El nombre de usuario</system:String>
+    <system:String x:Key="ya se encuentra registrado">ya se encuentra registrado</system:String>
+    <system:String x:Key="Error al registrar el Usuario.">Error al registrar el Usuario.</system:String>
+    <system:String x:Key="El grupo se agrego correctamente">El grupo se agrego correctamente</system:String>
+    <system:String x:Key="El nombre del grupo">El nombre del grupo</system:String>
+    <system:String x:Key="El grupo ha sido eliminado">El grupo ha sido eliminado</system:String>
+    <system:String x:Key="Puede que el grupo este asociado a un contacto, no podra eliminarse">Puede que el grupo este asociado a un contacto, no podra eliminarse</system:String>
+    <system:String x:Key="Error al eliminar el Grupo">Error al eliminar el Grupo</system:String>
+    <system:String x:Key="Error al registrar el telefono:">Error al registrar el telefono:</system:String>
+    <system:String x:Key="El telefono:">El telefono:</system:String>
+    <system:String x:Key="Móvil">Móvil</system:String>
+    <system:String x:Key="Casa">Casa</system:String>
+    <system:String x:Key="Trabajo">Trabajo</system:String>
+    <system:String x:Key="Error al eliminar el Telefono.">Error al eliminar el Telefono.</system:String>
+    <system:String x:Key="Error. El contacto no ningun correo asociado">Error. El contacto no tiene ningun correo asociado</system:String>
+    <system:String x:Key="Debe ingresar un nombre para el Grupo">Debe ingresar un nombre para el Grupo</system:String>
+
+    <system:String x:Key="Error al buscar los grupos.">Error al buscar los grupos.</system:String>
+    <system:String x:Key="El grupo:">El grupo:</system:String>
+    <system:String x:Key="ha sido editado correctamente">ha sido editado correctamente</system:String>
+    <system:String x:Key="Error al editar el Grupo.">Error al editar el Grupo.</system:String>
+
+    <system:String x:Key="Las contraseñas no coinciden o hay campos vacios">Las contraseñas no coinciden o hay campos vacios</system:String>
+
+    <!--  <system:String x:Key="Lista de Grupos">Lista de Grupos</system:String>-->
+    <system:String x:Key="Mantenimiento">Mantenimiento</system:String>
+    <system:String x:Key="Filtrar">Filtrar</system:String>
+
+
+
+
+
+</ResourceDictionary>

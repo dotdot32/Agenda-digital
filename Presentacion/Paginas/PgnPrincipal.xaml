@@ -1,0 +1,48 @@
+﻿<Page x:Class="AgendaDigital.presentacion.Paginas.PgnPrincipal"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="525"
+	Title="PgnPrincipal" xmlns:my="clr-namespace:AgendaDigital.presentacion.Controles" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Frame Name="frmMantenimiento" Margin="0,111,0,0" NavigationUIVisibility="Hidden" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <Rectangle Fill="#FF12869D" Height="105.05" Stroke="#FF1A9DB6" VerticalAlignment="Top"/>
+        <Button Content="Button"  Name="btnGuardar" Height="42" Margin="0,18,376,0" VerticalAlignment="Top" Style="{DynamicResource Guardar}" HorizontalAlignment="Right" Width="42" ToolTip="{DynamicResource guardar}"  />
+        <Button Content="Button" Name="btnAgregar" HorizontalAlignment="Right" Height="42" Margin="0,18,422,0" VerticalAlignment="Top" Width="42" Style="{DynamicResource Agregar}" ToolTip="{DynamicResource Nuevo}" Click="btnAgregar_Click" />
+        <Button Content="Button" Name="btnEliminar" Height="42" Margin="0,18,284,0" VerticalAlignment="Top" Style="{DynamicResource eliminar}" HorizontalAlignment="Right" Width="42" ToolTip="{DynamicResource Eliminar}" IsEnabled="True" />
+        <Button Content="Button" Name="btnCorreo" Height="42" Margin="0,18,29,0" VerticalAlignment="Top" Style="{DynamicResource mensaje}" HorizontalAlignment="Right" Width="42" ToolTip="{DynamicResource Correo}"  />
+        <Button Content="Button" Name="btnFavorito" Margin="0,18,75,0" Style="{DynamicResource favorito}" Height="42" VerticalAlignment="Top" HorizontalAlignment="Right" Width="42" ToolTip="{DynamicResource Favoritos}" Click="Button_Click_2" />
+        <Button Content="Button" Name="btnCancelar" Margin="0,18,238,0" Style="{DynamicResource cancelar}" Height="42" VerticalAlignment="Top" HorizontalAlignment="Right" Width="42" ToolTip="{DynamicResource Cancelar}" Click="btnCancelar_Click" />
+        <Separator Height="54" Margin="0,11.5,156,0" Name="separator1" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="38" >
+            <Separator.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.021"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Separator.RenderTransform>
+        </Separator>
+        <Button Content="Button" Name="btnEditar" Height="42" Margin="0,18,330,0" VerticalAlignment="Top" Width="42" Style="{DynamicResource editar}" HorizontalAlignment="Right" d:LayoutOverrides="Width" ToolTip="{DynamicResource Editar}" />
+        <TextBlock Height="42" Margin="61,32,0,0" TextWrapping="Wrap" Text="{DynamicResource AgendaDigital}" VerticalAlignment="Top" HorizontalAlignment="Left" Width="239" Foreground="#FFFFF9F9" FontSize="24" d:LayoutOverrides="HorizontalAlignment"/>
+        <Image HorizontalAlignment="Left" Height="56" Margin="1,18,0,0" Source="/Presentacion;component/Imagenes/Login/icono.png" Stretch="Fill" VerticalAlignment="Top" Width="56"/>
+
+        <my:ucAbc Margin="0,81,0,0" x:Name="ucAbc1" />
+        <Button Content="Button" Height="42" HorizontalAlignment="Right" Margin="0,18,192,0" Name="btnAgregarU" VerticalAlignment="Top" Width="42" Style="{StaticResource guardarUsuario}" d:LayoutOverrides="VerticalAlignment" ToolTip="{DynamicResource AgregarUsuario}" Click="btnAgregarU_Click" />
+        <Menu Height="42" HorizontalAlignment="Right" Margin="0,17,125,0" Name="menu1" VerticalAlignment="Top" Width="42" >
+            <Menu.Background>
+                <ImageBrush ImageSource="/Presentacion;component/Imagenes/PagPrincipal/grupo.png" />
+            </Menu.Background>
+            <MenuItem Width="42" Height="42" Name="mItems" ToolTip="{DynamicResource Grupos}">
+                <MenuItem Header="{DynamicResource Mantenimiento}" Click="MenuItem_Click" />
+                <MenuItem Header="{DynamicResource Filtrar}" Click="MenuItem_Click_1" />
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Page>

@@ -1,0 +1,93 @@
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\Administrador\Desktop\Proyecto Programacion III\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\Felipe Alvarado\Desktop\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Administrador\Desktop\proyecto II  progra 3\Proyecto\AgendaDigital\Negocios\bin\Debug\Negocios.dll.config
+G:\AgendaDigital\Negocios\bin\Debug\Negocios.dll.config
+G:\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+G:\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+G:\AgendaDigital\Negocios\bin\Debug\Datos.dll
+G:\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+G:\AgendaDigital\Negocios\obj\Debug\ResolveAssemblyReference.cache
+G:\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+G:\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+L:\AgendaDigital\Negocios\bin\Debug\Negocios.dll.config
+L:\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+L:\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+L:\AgendaDigital\Negocios\bin\Debug\Datos.dll
+L:\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+L:\AgendaDigital\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+L:\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+L:\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\Felipe\Desktop\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\Felipe\Desktop\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\AgendaDigital mio\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\Felipe\Desktop\AgendaDigital mio\Negocios\bin\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\AgendaDigital mio\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\AgendaDigital mio\Negocios\bin\Debug\Datos.dll
+C:\Users\Felipe\Desktop\AgendaDigital mio\Negocios\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital mio\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\AgendaDigital mio\Negocios\obj\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\AgendaDigital mio\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\unido\AgendaDigital\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\Felipe\Desktop\unido\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\unido\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\unido\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\Felipe\Desktop\unido\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\unido\AgendaDigital\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\unido\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\unido\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\dianakorte\Desktop\AgendaDigital\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dianakorte\Desktop\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\dianakorte\Desktop\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\dianakorte\Desktop\AgendaDigital\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\dianakorte\Desktop\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\dianakorte\Desktop\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\dianakorte\Desktop\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\dianakorte\Desktop\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\AgendaDigital\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\Administrador\Desktop\Final\Nueva carpeta\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\t\AgendaDigital\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\Felipe\Desktop\t\AgendaDigital\Negocios\bin\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\t\AgendaDigital\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Felipe\Desktop\t\AgendaDigital\Negocios\bin\Debug\Datos.dll
+C:\Users\Felipe\Desktop\t\AgendaDigital\Negocios\bin\Debug\Datos.pdb
+C:\Users\Felipe\Desktop\t\AgendaDigital\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\t\AgendaDigital\Negocios\obj\Debug\Negocios.dll
+C:\Users\Felipe\Desktop\t\AgendaDigital\Negocios\obj\Debug\Negocios.pdb
